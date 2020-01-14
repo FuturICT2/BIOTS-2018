@@ -1,0 +1,78 @@
+[submodule "currenTcy"]
+	path = currenTcy
+	url = https://github.com/ETHBiots2018/currenTcy
+[submodule "weShare"]
+	path = weShare
+	url = https://github.com/ETHBiots2018/weShare
+[submodule "HugsForBugs"]
+	path = HugsForBugs
+	url = https://github.com/ETHBiots2018/HugsForBugs
+[submodule "Favelinha"]
+	path = Favelinha
+	url = https://github.com/ETHBiots2018/Favelinha
+[submodule "ubiq-e"]
+	path = ubiq-e
+	url = https://github.com/ETHBiots2018/ubiq-e
+[submodule "electriciteam"]
+	path = electriciteam
+	url = https://github.com/ETHBiots2018/electriciteam
+[submodule "EnergyWarriors"]
+	path = EnergyWarriors
+	url = https://github.com/ETHBiots2018/EnergyWarriors
+[submodule "chainge"]
+	path = chainge
+	url = https://github.com/ETHBiots2018/chainge
+[submodule "bEquality"]
+	path = bEquality
+	url = https://github.com/ETHBiots2018/bEquality
+[submodule "blackboxes"]
+	path = blackboxes
+	url = https://github.com/ETHBiots2018/blackboxes
+[submodule "EDUCoin"]
+	path = EDUCoin
+	url = https://github.com/ETHBiots2018/EDUCoin
+[submodule "FORWARD"]
+	path = FORWARD
+	url = https://github.com/ETHBiots2018/FORWARD
+[submodule "Food-Saviours"]
+	path = Food-Saviours
+	url = https://github.com/ETHBiots2018/Food-Saviours
+[submodule "symBIOTic"]
+	path = symBIOTic
+	url = https://github.com/ETHBiots2018/symBIOTic
+[submodule "EnergyOnline"]
+	path = EnergyOnline
+	url = https://github.com/ETHBiots2018/EnergyOnline
+[submodule "spcrt"]
+	path = spcrt
+	url = https://github.com/ETHBiots2018/spcrt
+[submodule "Vaccinet"]
+	path = Vaccinet
+	url = https://github.com/ETHBiots2018/Vaccinet
+[submodule "ReusabiliToken"]
+	path = ReusabiliToken
+	url = https://github.com/ETHBiots2018/ReusabiliToken
+[submodule "Project-LESS"]
+	path = Project-LESS
+	url = https://github.com/ETHBiots2018/Project-LESS
+[submodule "AmBros"]
+	path = AmBros
+	url = https://github.com/ETHBiots2018/AmBros
+[submodule "Flocc"]
+	path = Flocc
+	url = https://github.com/ETHBiots2018/Flocc
+[submodule "E-Mine1"]
+	path = E-Mine1
+	url = https://github.com/ETHBiots2018/E-Mine1
+[submodule "blockchain-energy-mergerandacquisition"]
+	path = blockchain-energy-mergerandacquisition
+	url = https://github.com/ETHBiots2018/blockchain-energy-mergerandacquisition
+[submodule "e-mine2"]
+	path = e-mine2
+	url = https://github.com/ETHBiots2018/e-mine2
+[submodule "JaysonChain"]
+	path = JaysonChain
+	url = https://github.com/ETHBiots2018/JaysonChain
+[submodule "mobchain"]
+	path = mobchain
+	url = https://github.com/ETHBiots2018/mobchain
